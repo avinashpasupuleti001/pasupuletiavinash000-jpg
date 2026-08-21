@@ -21,7 +21,7 @@ DSA • Java • Full-Stack Development
 
 ### 🌐 Socials
 
-[LinkedIn](YOUR_LINKEDIN) • [LeetCode](YOUR_LEETCODE) • [GeeksforGeeks](YOUR_GFG)
+[LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/avinash-pasupuleti-5150762a6/)) • [LeetCode]([YOUR_LEETCODE](https://leetcode.com/u/pasupuletiavinash403/)) • [GeeksforGeeks]([YOUR_GFG](https://www.geeksforgeeks.org/profile/pasupuletiaee6h))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-pasupuleti-5150762a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasupuletiavinash403@gmail.com) 
