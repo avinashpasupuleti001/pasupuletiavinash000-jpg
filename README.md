@@ -1,23 +1,27 @@
 # 💫 About Me
 
-🎓 2nd Year B.Tech CSE @ KLU  
-☕ Java | DSA | Full-Stack Development  
-🔥 800+ Day GeeksforGeeks POTD Streak  
-🚀 Aspiring Software Engineer
+🎓 2nd Year B.Tech CSE @ KLU • ☕ Java & DSA • 🌐 Full-Stack Development • 🔥 800+ Day GFG POTD Streak • 🚀 Aspiring Software Engineer
 
 ### 🛠️ Skills
-**Languages:** Java, C, JavaScript, SQL  
-**Frontend:** React, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL, MongoDB  
-**Core CS:** DSA, OOP, OS, DBMS, CN  
-**Tools:** Git, GitHub
 
-### 🚀 Featured Project
-**NutriHealth** — React.js | Node.js | Tailwind CSS
+**Languages:** Java • C • JavaScript • SQL  
+**Frontend:** React • HTML • CSS • Tailwind CSS  
+**Backend:** Node.js • Express.js  
+**Database:** MySQL • MongoDB  
+**Core CS:** DSA • OOP • OS • DBMS • CN  
+**Tools:** Git • GitHub
+
+### 🚀 Project
+
+**NutriHealth** — React.js • Node.js • Tailwind CSS
 
 ### 📌 Focus
+
 DSA • Java • Full-Stack Development
+
+### 🌐 Socials
+
+[LinkedIn](YOUR_LINKEDIN) • [LeetCode](YOUR_LEETCODE) • [GeeksforGeeks](YOUR_GFG)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-pasupuleti-5150762a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasupuletiavinash403@gmail.com) 
