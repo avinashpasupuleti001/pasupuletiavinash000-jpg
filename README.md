@@ -1,6 +1,23 @@
-# 💫 About Me:
-# GitHub Profile Editing Prompt<br><br>Edit my GitHub profile to make it **clean, professional, simple, and recruiter-friendly**.<br><br>### My Profile<br><br>* **Name:** Avinash Pasupuleti<br>* **Education:** 2nd-year B.Tech CSE @ KLU<br>* **Primary language:** Java<br>* **Focus:** DSA + Full-Stack Development<br>* **Achievement:** 800+ day GeeksforGeeks POTD streak<br>* **Goal:** Software Engineer / Full-Stack Developer<br><br>### Skills<br><br>* Java, C, JavaScript, SQL<br>* HTML, CSS, React, Tailwind CSS<br>* Node.js, Express.js, Flask<br>* MySQL, MongoDB<br>* DSA, OOP, OS, DBMS, Computer Networks<br>* Git, GitHub<br><br>### Current Repositories<br><br>2. **nutrihealth** — react.js node.js tailwind css<br><br><br>### What I Want<br><br>* Keep the profile **simple**, not overloaded.<br>* Identify which repositories should be **kept, renamed, merged, archived, or removed**.<br>* Pin only my **best 4 repositories**.<br>* Make **nutrihealth** the main featured project.<br>* Create a **DSA-Java** repository to showcase my Java + DSA practice and 800+ GFG streak.<br>* Improve repository names and descriptions where necessary.<br>* Add proper README files to important repositories.<br>* Organize my skills into clear categories.<br>* Create a short professional GitHub bio.<br>* Make the profile clearly communicate: **Java + DSA + Full-Stack Development → Software Engineer**.<br>* Do not add fake achievements, unnecessary technologies, or exaggerated claims.<br>* Do not make the profile overly complicated.<br><br>### Preferred Bio<br><br>**B.Tech CSE @ KLU | Java & DSA | Full-Stack Developer | Aspiring Software Engineer**<br><br><br>
+# 💫 About Me
 
+🎓 2nd Year B.Tech CSE @ KLU  
+☕ Java | DSA | Full-Stack Development  
+🔥 800+ Day GeeksforGeeks POTD Streak  
+🚀 Aspiring Software Engineer
+
+### 🛠️ Skills
+**Languages:** Java, C, JavaScript, SQL  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL, MongoDB  
+**Core CS:** DSA, OOP, OS, DBMS, CN  
+**Tools:** Git, GitHub
+
+### 🚀 Featured Project
+**NutriHealth** — React.js | Node.js | Tailwind CSS
+
+### 📌 Focus
+DSA • Java • Full-Stack Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-pasupuleti-5150762a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasupuletiavinash403@gmail.com) 
